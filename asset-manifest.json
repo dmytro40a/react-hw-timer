@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-timer/static/css/main.d16d2643.css",
+    "main.js": "/react-hw-timer/static/js/main.47ed3e42.js",
+    "static/js/787.2d85fc11.chunk.js": "/react-hw-timer/static/js/787.2d85fc11.chunk.js",
+    "index.html": "/react-hw-timer/index.html",
+    "main.d16d2643.css.map": "/react-hw-timer/static/css/main.d16d2643.css.map",
+    "main.47ed3e42.js.map": "/react-hw-timer/static/js/main.47ed3e42.js.map",
+    "787.2d85fc11.chunk.js.map": "/react-hw-timer/static/js/787.2d85fc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16d2643.css",
+    "static/js/main.47ed3e42.js"
+  ]
+}
