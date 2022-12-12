@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #282c34;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.timer-container {
+  height: 50vh;
+  width: 80%;
+  box-sizing: border-box;
+}
+
+.timer-btn {
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+  border: none;
+}
+
+.timer-block {
+  margin-top: 20px;
+  background-color: rgb(0, 255, 255);
+  height: 20px;
+  width: 100px;
+}
+
+.timer-btn:hover {
+  background-color: rgb(197, 234, 241);
+}
